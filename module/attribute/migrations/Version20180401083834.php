@@ -25,6 +25,7 @@ final class Version20180401083834 extends AbstractErgonodeMigration
         'CAD' => 'Canadian dollar',
         'CHF' => 'Swiss franc',
         'CNY' => 'Chinese Yuan Renminbi',
+        'JOD' => 'Jordanian Dinar',
     ];
 
     /**
